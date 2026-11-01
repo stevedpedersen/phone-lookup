@@ -1,0 +1,19 @@
+[project]
+name = "phone-lookup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Steve P", email = "ozmatozz@proton.me" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "phonenumbers>=9.0.42",
+]
+
+[project.scripts]
+lookup = "phone_lookup.main:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"

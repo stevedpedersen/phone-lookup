@@ -1,0 +1,17 @@
+[
+    {"name": "Should I Answer", "url": "https://www.shouldianswer.com/phone-number/{area}{prefix}{line}"},
+    {"name": "800notes", "url": "https://800notes.com/Phone.aspx/1-{area}-{prefix}-{line}"},
+    {"name": "OkCaller", "url": "https://www.okcaller.com/detail.php?number={area}{prefix}{line}"},
+    {"name": "Sync.ME", "url": "https://sync.me/search/?number=1{area}{prefix}{line}"},
+    {"name": "SearchBug", "url": "https://www.searchbug.com/tools/reverse-phone-lookup.aspx?TYPE=phonerev&TAG=tools&FULLPHONE={area}{prefix}{line}"},
+    {"name": "PhoneLookup", "url": "https://www.phonelookup.com/1/{area}-{prefix}-{line}"},
+    {"name": "411", "url": "https://www.411.com/phone/1-{area}-{prefix}-{line}"},
+    {"name": "FastPeopleSearch", "url": "https://www.fastpeoplesearch.com/{area}-{prefix}-{line}"},
+    {"name": "TruePeopleSearch", "url": "https://www.truepeoplesearch.com/results?phoneno=({area}){prefix}-{line}"},
+    {"name": "USPhoneBook", "url": "https://www.usphonebook.com/{area}-{prefix}-{line}"},
+    {"name": "ThatsThem", "url": "https://thatsthem.com/phone/{area}-{prefix}-{line}"},
+    {"name": "ZabaSearch", "url": "https://www.zabasearch.com/phone/{area}{prefix}{line}"},
+    {"name": "PeopleFinders", "url": "https://www.peoplefinders.com/reverse-phone/searchresults?search=Phone&phone={area}{prefix}{line}"},
+    {"name": "WhoCallsMe", "url": "https://whocallsme.com/Phone-Number.aspx/{area}{prefix}{line}"},
+    {"name": "YellowPages", "url": "https://people.yellowpages.com/whitepages/phone-lookup?phone={area}{prefix}{line}"}
+]
